@@ -3,7 +3,7 @@
 <li>sudo apt-get update</li>
 <li>sudo apt-get upgrade</li>
 <br>
-Затем лично для своих нужнд, я поставил следующие пакеты
+Затем лично я поставил следующие пакеты, для нужд и для питона
 <li>sudo apt-get install -y zsh tree redis-server nginx zsh openssl libssl-dev zlib1g-dev</li>
 <br>
 Затем устанавливаю oh-my-zsh:
