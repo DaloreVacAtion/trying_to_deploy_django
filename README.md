@@ -26,4 +26,5 @@
 <li>git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY folder_name</li>
 <p>P.S. Чтобы клонировать реппозиторий на сервере через SSH, нужно предварительно создать публичный ключ (cd ~/.ssh --> ssh-keygen -o --> cat ~/.ssh/id_rsa.pub) и закинуть его в настройки профиля на GitHub</p>
 
-<h1 align="center">Следующий этап!</h1>
+<h1 align="center">Следующий этап - настройка необходимого окружения для Django</h1>
+Первым делом, следует указать zsh, где находится путь до Python, для этого командой nano ~/.zshrc откроем файл на редактирование и вобъем следующие строки export PATH=$PATH:/root/.python/bin, сохраним и перезапустим командой source ~/.zshrc
