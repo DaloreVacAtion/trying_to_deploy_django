@@ -23,3 +23,7 @@
 <li>/root/.python/bin/python3.8 -m pip install -U pip</li>
 <br>
 Теперь осталось скачать проект с GitHub и приступить к дальнейшей настройке:
+<li>git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY folder_name</li>
+<p>P.S. Чтобы клонировать реппозиторий на сервере через SSH, нужно предварительно создать публичный ключ (cd ~/.ssh --> ssh-keygen -o --> cat ~/.ssh/id_rsa.pub) и закинуть его в настройки профиля на GitHub</p>
+
+<h1>Следующий этап!</h1>
