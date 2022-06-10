@@ -1,4 +1,4 @@
-<h1 align="center">Инструкция о том, как я разворачивал Django проект на сервере, с использование Docker + Nginx + Django соответственно</h1>
+<h1 align="center">Инструкция о том, как я разворачивал Django проект на сервере, с использование Docker + Nginx + Gunicorn + Django соответственно</h1>
 <p>Первый делом нужно обновить сервер двумя командами</p>
 <li>sudo apt-get update</li>
 <li>sudo apt-get upgrade</li>
