@@ -35,5 +35,8 @@
 Теперь нам необходимо создать пользователя и задать ему пароль, который установим в настройках приложения, а также создадим БД и присвоим пользователю права на данную базу командой: 
 <li>GRANT ALL PRIVILEGES ON DATABASE "database" to username</li>
 
+<h1 align="center">Docker</h1>
+Установим Docker и Docker-Compose так, как указано в официальной документации https://docs.docker.com/engine/install/. 
+
 
 
