@@ -4,7 +4,7 @@
 <li>sudo apt-get upgrade</li>
 <br>
 Затем лично я поставил следующие пакеты, для нужд и для питона
-<li>sudo apt-get install -y zsh tree redis-server nginx gunicorn postgresql-13 zsh openssl libssl-dev musl-dev postgresql-server-dev-all libpq-dev zlib1g-dev libffi-dev python3.8-dev libsqlite3-dev libxslt-dev curl git
+<li>sudo apt-get install -y zsh tree redis-server nginx gunicorn postgresql-13 zsh openssl libssl-dev musl-dev postgresql-server-dev-all libpq-dev zlib1g-dev libffi-dev python3.8-dev libsqlite3-dev libxslt-dev curl git gcc
 </li>
 <br>
 Затем устанавливаю oh-my-zsh:
