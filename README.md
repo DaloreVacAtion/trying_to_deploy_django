@@ -9,6 +9,7 @@
 <br>
 Затем устанавливаю oh-my-zsh:
 <li>sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"</li>
+<li>chsh -s $(which zsh)</li>
 <br>
 И перехожу к Питону:
 <br>
